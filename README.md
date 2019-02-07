@@ -15,8 +15,8 @@
 
 <h3 style="margin-top:15px;">Properties</h3>
 <ul>
-  <li>- Icon colour — Icon colour. Set to `#2FE8D6` by default.</li>
-  <li>- Text colour — Text color. Set to `#fff` by default.</li>
-  <li>- Stepper value — Change the value you want the number to be incremented or decremented by.  Set to `0` by default.</li>
-  <li>- Font Size — Set your custom font size value. Set to `11` by default.</li>
+  <li>Icon colour — Icon colour. Set to `#2FE8D6` by default.</li>
+  <li>Text colour — Text color. Set to `#fff` by default.</li>
+  <li>Stepper value — Change the value you want the number to be incremented or decremented by.  Set to `0` by default.</li>
+  <li>Font Size — Set your custom font size value. Set to `11` by default.</li>
 </ul>
