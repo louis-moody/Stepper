@@ -7,9 +7,11 @@
 
 <p align="center">A simple stepper component for Framer X. Built with React.</p>
 
-<p style="margin-top:50px;">An incredibly-customisable stepper. This was born from a need of a personal project of mine and I thought I’d share it with you, since you’re here and probably have the same need I had.</p>
+<div style="margin:25px;">&nbsp;</div>
 
-<div style="margin:25px;"></div>
+<p">An incredibly-customisable stepper. This was born from a need of a personal project of mine and I thought I’d share it with you, since you’re here and probably have the same need I had.</p>
+
+<div style="margin:25px;">&nbsp;</div>
 
 <h3 style="margin-top:15px;">Properties</h3>
 <ul>
