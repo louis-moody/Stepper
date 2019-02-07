@@ -5,7 +5,7 @@
   Stepper
 </h1>
 
-<p align="center">A simple stepper component for Framer X. Built with React.</p>
+<p align="center">A simple stepper component for Framer X.</p>
 
 <div style="margin:50px;">&nbsp;</div>
 
